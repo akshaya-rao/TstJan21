@@ -9,6 +9,7 @@
 #import "ViewController.h"
 
 @interface ViewController ()
+- (IBAction)clickButton:(id)sender;
 
 @end
 
@@ -26,4 +27,6 @@
     // Dispose of any resources that can be recreated.
 }
 
+- (IBAction)clickButton:(id)sender {
+}
 @end
